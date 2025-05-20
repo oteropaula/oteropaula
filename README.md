@@ -3,6 +3,10 @@
 Hi there! I’m **Paula**, a passionate tech enthusiast currently studying **Digital and Multimedia Technologies at UPV**.  
 I love exploring the intersection between **cybersecurity**, **web development**, and **network architecture**, and I’m always looking for ways to learn, grow, and build meaningful projects that make an impact.
 
+Alongside my studies, I've had the opportunity to:
+- Work as a **Specialist COE** in the Large Companies Office, managing critical banking operations, international transfers, and direct communication with clients.  
+- Provide **technical support** and review hardware/software for professors at the **Centro de Formación Permanente**, ensuring smooth operation of IT systems.
+
 ---
 
 ### 🔧 Tech Stack & Tools  
@@ -40,7 +44,10 @@ I love exploring the intersection between **cybersecurity**, **web development**
 - 🌍 Computer Networks  
 - 🕸️ Web Technologies (Frontend & Backend)  
 - 🔑 Cryptography  
-- 🎬 Audiovisual tech & immersive experiences  
+- 💻 Software & Systems Engineering  
+- 🌐 Practicing English & aiming to study abroad *(Erasmus bound!)*  
+- 🎥 Passionate about Cinema, Audiovisual Tech & Immersive Experiences  
+- 🌍 Always eager to **expand horizons** and **connect with new people**
 
 ---
 
