@@ -20,7 +20,6 @@ Alongside my studies, I've had the opportunity to:
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
 
 ### 🛡️ Cybersecurity & Networking  
 <p align="left">
@@ -30,14 +29,12 @@ Alongside my studies, I've had the opportunity to:
   <img src="https://img.shields.io/badge/Computer%20Networks-008080?style=for-the-badge"/>
 </p>
 
----
 
 ### 🌐 Web & App Development  
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
----
 
 ### 🧠 Learning & Interests  
 - 🔐 Cybersecurity & Ethical Hacking  
@@ -55,7 +52,6 @@ Alongside my studies, I've had the opportunity to:
 - **Image Object Detection and Comparative Analysis of YOLO Architectures**
 - **Web Platform Maintenance for ACM UPV Chapter**
 
----
 
 ### 📊 GitHub Stats  
 <p align="left">
