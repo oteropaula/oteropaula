@@ -6,11 +6,9 @@ Alongside my studies, I've had the opportunity to:
 - Provide **technical support** and review hardware/software for professors at the **Centro de Formación Permanente**, ensuring smooth operation of IT systems.
 
 
-### GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=oteropaula&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oteropaula&layout=compact&theme=radical"/>
-</p>
+### GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=oteropaula&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oteropaula&layout=compact&theme=radical)
 
 ---
 
