@@ -5,13 +5,6 @@ Alongside my studies, I've had the opportunity to:
 - Work as a **Specialist COE** in the Large Companies Office, managing critical banking operations, international transfers, and direct communication with clients.  
 - Provide **technical support** and review hardware/software for professors at the **Centro de Formación Permanente**, ensuring smooth operation of IT systems.
 
-
-### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=oteropaula&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oteropaula&layout=compact&theme=radical)
-
----
-
 ### Let’s connect!
 - [LinkedIn](https://www.linkedin.com/in/paulaoteropaños)  
 ---
