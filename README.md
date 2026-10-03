@@ -1,4 +1,5 @@
-Hi there! I’m **Paula**, a passionate tech enthusiast currently studying **Computer Science** at Faculty of Computer and Information Science, University of Ljubljana, as part of the Erasmus programme. 
+Hi there! I’m **Paula**, a passionate tech enthusiast currently studying a MSc in **Cybersecurity** at the University of Alcalá (Madrid, Spain).
+
 I’m particularly interested in information and organisation security, with a focus on both technical systems and the human aspects of security, including how user behavior, usability, and awareness influence overall security.
 
 Alongside my studies, I have gained hands-on experience by:  
